@@ -46,8 +46,7 @@ lbl_sec2.place(x=425,y=360,width=150,height=50)
 lbl_noon = Label(root,text="AM",font=("times new roman",50,"bold"),bg="skyblue",fg="black")
 lbl_noon.place(x=600,y=200,width=150,height=150)
 
-# lbl_noon2 = Label(root,text="NOON",font=("times new roman",20,"bold"),bg="#0875B7",fg="white")
-# lbl_noon2.place(x=860,y=360,width=150,height=50)
+
 
 clock()
 
